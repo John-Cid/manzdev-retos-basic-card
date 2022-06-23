@@ -1,13 +1,13 @@
-# manzdev-retos-titulo
+# manzdev-retos-basic-card
 
 🌍 **URL del reto**: *https://lenguajejs.com/retos/nivel-facil/basic-card/*
 
 ## Datos
 
-- 🦄 **Desarrollador/a:** *Nombre*
-- 🐇 **Link a red social:** *https://twitter.com/nombre*
-- 🦾 **Perfil:** *Novato / Bajo / Medio / Avanzado / Experto*
-- 💬 **Un comentario breve o frase ingeniosa**: *-*
+- 🦄 **Desarrollador/a:** *Jorge Jonathan Ramos Cid*
+- 🐇 **Link a red social:** *https://twitter.com/jorge_ramcid*
+- 🦾 **Perfil:** *Medio*
+- 💬 **Un comentario breve o frase ingeniosa**: *Los gatos dominarán al mundo 🐱*
 
 ## Observaciones
 
