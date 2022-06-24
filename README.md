@@ -5,9 +5,9 @@
 ## Datos
 
 - 🦄 **Desarrollador/a:** *Jorge Jonathan Ramos Cid*
-- 🐇 **Link a red social:** *https://twitter.com/jorge_ramcid*
+- 🐇 **Link a red social:** *https://twitter.com/john_ramcid*
 - 🦾 **Perfil:** *Medio*
-- 💬 **Un comentario breve o frase ingeniosa**: *Los gatos dominarán al mundo 🐱*
+- 💬 **Un comentario breve o frase ingeniosa**: *Los gatos dominarán el mundo 🐱*
 
 ## Observaciones
 
